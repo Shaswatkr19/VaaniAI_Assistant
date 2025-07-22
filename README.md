@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/image.png" alt="VaaniAI Assistant Banner" width="50%">
+
 # VaaniAI Assistant 🎙️  
 > Your Own AI-Powered Voice Assistant – Alexa vibes, Gemini intelligence 🚀
 
