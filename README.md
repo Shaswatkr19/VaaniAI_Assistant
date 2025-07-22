@@ -34,9 +34,9 @@
 
 ### 💬 Sample Commands
 
-| You Say                            | VaaniAI Responds                         |
+| You Say                            | AlexaAI Responds                         |
 |-----------------------------------|------------------------------------------|
-| "Hey Vaani, what's coding?"       | Explains coding in simple language       |
+| "Hey Alexa, what's coding?"       | Explains coding in simple language       |
 | "What’s the weather today?"       | (Requires weather API integration)       |
 | "Tell me a joke"                  | Responds with a fun AI-generated joke    |
 
