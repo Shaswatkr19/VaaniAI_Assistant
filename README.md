@@ -31,7 +31,7 @@
 ### 💬 Sample Commands
 | You Say | VaaniAI Responds |
 |--------|------------------|
-| "Hey Vaani, what's coding?" | Explains coding in natural language |
+| "Hey Alexa, what's coding?" | Explains coding in natural language |
 | "What’s the weather today?" | Gives current weather (custom logic required) |
 | "Tell me a joke" | Responds with humor |
 
